@@ -30,7 +30,7 @@ const HeroSection = () => {
                 alt="Qari Waseem Ullah Amin reciting Quran" 
                 className="w-full h-full object-cover"
               />
-              <div className="absolute inset-0 bg-navy/40 flex items-center justify-center">
+              <div className="absolute inset-0 bg-navy/20 flex items-center justify-center">
                 {/* <div className="h-16 w-16 rounded-full bg-gold/80 flex items-center justify-center cursor-pointer hover:bg-gold transition-colors duration-300">
                   <svg className="h-6 w-6 text-navy" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M8 5v14l11-7z"></path>
